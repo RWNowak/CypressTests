@@ -1,3 +1,3 @@
-# Cypress-Fundamentals
-Code repo for Pluralsight course Cypress 9 Fundamentals by Adhithi Ravichandran
+# Cypress Tests
 
+Some tests in Cypress
